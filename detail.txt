@@ -1,0 +1,4 @@
+the name of the employee is nitish
+salary is 40000
+the name of the employee is sahil
+salary is 34000
